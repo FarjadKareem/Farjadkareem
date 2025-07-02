@@ -66,7 +66,7 @@ Currently working as a **Junior Backend Developer**, and building an **AI-Driven
 
 ## 🤝 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-farjad@example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:farjad.karim22@gmail.com)
+[![Email](https://img.shields.io/badge/Email-farjad.karim22@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:farjad.karim22@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Farjad%20Kareem-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/farjad-kareem-3a73aa2b6)
 [![GitHub](https://img.shields.io/badge/GitHub-farjadkareem-181717?style=flat&logo=github&logoColor=white)](https://github.com/farjadkareem)
 
