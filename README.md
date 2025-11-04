@@ -70,5 +70,5 @@ Currently working as a Junior Backend Developer, building intelligent systems th
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Farjad%20Kareem-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farjad-kareem-3a73aa2b6)
 [![GitHub](https://img.shields.io/badge/GitHub-farjadkareem-181717?style=flat&logo=github&logoColor=white)](https://github.com/farjadkareem)
 
-[📄 View My Resume](Farjad_kareem_CV.pdf)
+[📄 View My Resume](FarjadsCv.pdf)
 
