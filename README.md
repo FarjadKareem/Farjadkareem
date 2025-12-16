@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Farjad Kareem
 
 🎓 Data Science Graduate — FAST NUCES  
-💼 Junior Backend Developer | Data & AI Engineer | Cybersecurity Enthusiast  
+💼 Junior Backend Developer | AI Engineer
 📍 Based in Pakistan  
 
 ---
