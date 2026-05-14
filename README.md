@@ -15,7 +15,7 @@ I'm a data science graduate passionate about building real-world systems that co
 - 🛢️ **Data Engineering** – ETL pipelines, data lakes, distributed processing  
 - 🛡️ **Cybersecurity** – AI-powered defense, phishing detection, behavioral analysis  
 
-Currently working as a Junior Backend Developer, building intelligent systems that bridge backend engineering with AI.
+Currently working as a  Backend Developer, building intelligent systems that bridge backend engineering with AI.
 
 ---
 
